@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.4.1):
+    - Alamofire (~> 4.7)
+  - MBProgressHUD (0.9.2)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 3.4)
+  - MBProgressHUD (~> 0.9.1)
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 78d67ccbb763d87ba44b21583d2153500a195630
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+
+PODFILE CHECKSUM: 5120b35c7df1a83cf1e5339bf89d2c3155c5bc45
+
+COCOAPODS: 1.4.0
